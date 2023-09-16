@@ -1,4 +1,4 @@
-This webpage has been compiled from starter code (index.html and style.css files) received for the Module 1 Challenge of the UNC Boot Camp repository 'UNC-VIRT-FSF-PT-09-2023-U-LOLC' and modified to fit the following User Story and Acceptance Criteria:
+This webpage has been compiled from starter code received from the UNC Boot Camp repository (https://git.bootcampcontent.com/UNC-Chapel-Hill/UNC-VIRT-FSF-PT-09-2023-U-LOLC.git) for the Module 1 Challenge. The code has been modified to fit the following User Story and Acceptance Criteria:
 
 User Story
 AS A marketing agency
