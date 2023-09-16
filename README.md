@@ -19,4 +19,6 @@ THEN I find a concise, descriptive title
 
 The deployed webpage appears as follows:
 
-Deployed webpage URL:
+![Screenshot of Webpage](<Horiseon Website Screenshot-1.jpg>)
+
+Deployed webpage URL: https://ant-m84.github.io/homework-1/
