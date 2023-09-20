@@ -21,4 +21,4 @@ The deployed webpage appears as follows:
 
 ![Screenshot of Webpage](<Horiseon Website Screenshot-1.jpg>)
 
-Deployed webpage URL: https://ant-m84.github.io/homework-1/
+Deployed webpage URL: https://github.com/Ant-M84/Horiseon.git
